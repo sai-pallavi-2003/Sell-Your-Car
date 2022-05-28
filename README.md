@@ -20,8 +20,10 @@ Sell your car is an informational web application and provides insights from the
 * CSS
 * Less
 
-### Back- End
+### Back-End
 * Jupyter Notebook
 * Python
 * Any Machine learning model deployment platform 
+
+# Features and Functions 
 
