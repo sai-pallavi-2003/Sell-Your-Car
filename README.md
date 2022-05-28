@@ -28,8 +28,8 @@ Sell your car is an informational web application and provides insights from the
 # Features and Functions 
 1. Shows the most popular car models and car brands
 2. Facts about car like: 
-  1. Major aim of people in buying a car
-  2. People's opinion on buying a 2nd hand car
-  3. New features modern age car lovers would like to see
+    i. Major aim of people in buying a car
+    ii. People's opinion on buying a 2nd hand car
+    iii. New features modern age car lovers would like to see
 3. Car price predictor 
 
