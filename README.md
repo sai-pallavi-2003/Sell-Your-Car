@@ -9,3 +9,17 @@ Sell your car is an informational web application and provides insights from the
 
 ![WhatsApp Image 2022-05-28 at 8 33 31 PM](https://user-images.githubusercontent.com/83531350/170831089-dafd4a1e-c25a-422d-b356-3c3234429920.jpeg)
 
+
+<br/>
+# Tech Stack
+
+## Front-End
+* HTML
+* CSS
+* Less
+
+## Back- End
+* Jupyter Notebook
+* Python
+* Any Machine learning model deployment platform 
+
