@@ -52,3 +52,5 @@ Sell your car is an informational web application and provides insights from the
 ![WhatsApp Image 2022-05-28 at 10 20 09 PM](https://user-images.githubusercontent.com/83531350/170834960-e77caa65-f1a7-4461-acb0-5cc524ecb361.jpeg)
 
 
+# Project Presentation
+[Sell Your Car Prototype](https://docs.google.com/presentation/d/1e0FH34i4g9WKOGFZ62buDsiQxjyeN_CCC4rMH0NpCH8/edit?usp=sharing)
